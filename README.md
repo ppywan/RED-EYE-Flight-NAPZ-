@@ -1,4 +1,4 @@
-# RED-EYE-Flight-NAPZ-
+# RED-EYE-Flight-NAPZ-team-11
 SDSS 2026 Datathon 
 
 The goal of our analysis was for individual customers to be able to predict the average market fare for a trip they wish to perform. Becuase of this, we included the largest market average fare and the lowest market average fare as target variables, since we assumed passengers only knew the origin, destination and time of their trip, and that we had the data related to each city present in the file. Additionally, individual customers may find this information useful, for example, because the largest carrier will probably have the most frequent flights, which would give the customer more flexibility in terms of dates when using their service. Following this assumnption of information possesed by the customers, we did not consider Total Fare-Paying Passengers for either city, since this is not information custoemrs have at the time of purchasing tickets. 

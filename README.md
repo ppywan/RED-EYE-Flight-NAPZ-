@@ -11,3 +11,7 @@ Assumptions:
 - We have information about cities
 - Current trends in ticket prices will continue in the future
 - Samples are (mostly) i.i.d.
+
+Citations: 
+- https://www.netjets.com/en-us/top-ski-destinations-united-states Used for outlier analysis.
+- Claude was used to create code.
